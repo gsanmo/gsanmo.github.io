@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Technical Documentations
 
 [Project 1 Fundraising Manuel](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
