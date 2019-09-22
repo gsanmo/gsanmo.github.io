@@ -19,9 +19,6 @@
 
 ### Category Name 2
 
-- [Fundraising Manuel for University Organization](http://example.com/)
-- [How to PhotoShop Guide](http://example.com/)
-- [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
