@@ -4,15 +4,15 @@
 
 ### Technical Documentations
 
-[Project 1 Fundraising Manuel](/sample_page)
+[Fundraising Manuel for University Organization](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 How to PhotoShop Guide](/pdf/sample_presentation.pdf)
+[How to PhotoShop Guide](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Chabot College Magazine](http://example.com/)
+[Chabot College Magazine](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
