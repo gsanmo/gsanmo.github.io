@@ -1,9 +1,9 @@
 ## Portfolio
 
 ---
-### Documentations, publications, and illustrations
+### Technical Documentations, publications, and illustrations
 
-[Fundraising Manuel for University Organization](/sample_page)
+[Fundraising Manuel for University Organization](/file:///C:/Users/gilly/Downloads/Fundraising%20Operations,%20Policies,%20and%20Code%20Enforcement.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
