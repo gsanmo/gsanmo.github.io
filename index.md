@@ -4,7 +4,7 @@
 ### Reference Manuals, User Guides, Publications, Other projects
 
 [Fundraising Manuel for University Organization](/file:///C:/Users/gilly/Downloads/Fundraising%20Operations,%20Policies,%20and%20Code%20Enforcement.pdf)
-<img src=HM.jpg/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [How to PhotoShop Guide](/pdf/sample_presentation.pdf)
